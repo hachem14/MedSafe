@@ -1,0 +1,452 @@
+[
+  {
+    "nom": "DOLIPRANE",
+    "substance": "Paracétamol",
+    "indication": "Douleur et fièvre",
+    "voie": "Orale, Rectale",
+    "contre_indication": "Insuffisance hépatocellulaire sévère",
+    "limitation": "Intervalle de 4 à 6 heures entre les prises",
+    "dose_maximale": "4g par 24h chez l'adulte"
+  },
+  {
+    "nom": "AMOXICILLINE",
+    "substance": "Amoxicilline",
+    "indication": "Infections bactériennes",
+    "voie": "Orale",
+    "contre_indication": "Allergie aux bêtalactamines",
+    "limitation": "Nécessite une prescription médicale",
+    "dose_maximale": "3g par jour (adulte)"
+  },
+  {
+    "nom": "SPASFON",
+    "substance": "Phloroglucinol",
+    "indication": "Spasmes abdominaux/urinaires",
+    "voie": "Orale, Injectable",
+    "contre_indication": "Hypersensibilité au phloroglucinol",
+    "limitation": "Éviter en cas de phénylcétonurie (forme Lyoc)",
+    "dose_maximale": "6 comprimés par jour"
+  },
+  {
+    "nom": "VENTOLINE",
+    "substance": "Salbutamol",
+    "indication": "Crise d'asthme",
+    "voie": "Inhalation",
+    "contre_indication": "Hypersensibilité au salbutamol",
+    "limitation": "Traitement de secours uniquement",
+    "dose_maximale": "15 bouffées par 24h"
+  },
+  {
+    "nom": "DAFALGAN",
+    "substance": "Paracétamol",
+    "indication": "Douleur et fièvre",
+    "voie": "Orale",
+    "contre_indication": "Maladie grave du foie",
+    "limitation": "Risque de toxicité hépatique en cas de surdosage",
+    "dose_maximale": "4g par jour"
+  },
+  {
+    "nom": "LEVOTHYROX",
+    "substance": "Lévothyroxine",
+    "indication": "Hypothyroïdie",
+    "voie": "Orale",
+    "contre_indication": "Hyperthyroïdie non traitée",
+    "limitation": "À prendre à jeun le matin",
+    "dose_maximale": "Dose titrée individuellement"
+  },
+  {
+    "nom": "KARDEGIC",
+    "substance": "Asperigine (Aspirine)",
+    "indication": "Prévention cardiovasculaire",
+    "voie": "Orale",
+    "contre_indication": "Ulcère gastrique, risque hémorragique",
+    "limitation": "Risque de saignement accru",
+    "dose_maximale": "160 mg/jour"
+  },
+  {
+    "nom": "IMODIUM",
+    "substance": "Lopéramide",
+    "indication": "Diarrhée aiguë",
+    "voie": "Orale",
+    "contre_indication": "Diarrhée avec sang ou fièvre élevée",
+    "limitation": "Max 2 jours sans avis médical",
+    "dose_maximale": "8 gélules/jour"
+  },
+  {
+    "nom": "FORLAX",
+    "substance": "Macrogol 4000",
+    "indication": "Constipation",
+    "voie": "Orale",
+    "contre_indication": "Maladie inflammatoire du colon",
+    "limitation": "Prendre avec beaucoup d'eau",
+    "dose_maximale": "2 sachets par jour"
+  },
+  {
+    "nom": "METFORMINE",
+    "substance": "Chlorhydrate de metformine",
+    "indication": "Diabète de type 2",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance rénale sévère",
+    "limitation": "Risque d'acidose lactique",
+    "dose_maximale": "3g par jour"
+  },
+  {
+    "nom": "RAMIPRIL",
+    "substance": "Ramipril",
+    "indication": "Hypertension artérielle",
+    "voie": "Orale",
+    "contre_indication": "Grossesse (T2 et T3)",
+    "limitation": "Surveillance de la fonction rénale",
+    "dose_maximale": "10 mg par jour"
+  },
+  {
+    "nom": "AUGMENTIN",
+    "substance": "Amoxicilline / Acide clavulanique",
+    "indication": "Infections bactériennes complexes",
+    "voie": "Orale",
+    "contre_indication": "Antécédent d'ictère lié à ce médicament",
+    "limitation": "À prendre au début des repas",
+    "dose_maximale": "3g d'amoxicilline par jour"
+  },
+  {
+    "nom": "VOLTARENE",
+    "substance": "Diclofénac",
+    "indication": "Douleurs articulaires/Entorses",
+    "voie": "Cutanée (Gel)",
+    "contre_indication": "Peau lésée ou allergie aux AINS",
+    "limitation": "Usage externe uniquement",
+    "dose_maximale": "4 applications par jour"
+  },
+  {
+    "nom": "ELUDRIL",
+    "substance": "Chlorhexidine",
+    "indication": "Gingivite / Désinfection buccale",
+    "voie": "Bains de bouche",
+    "contre_indication": "Hypersensibilité à la chlorhexidine",
+    "limitation": "Usage limité à 15 jours",
+    "dose_maximale": "3 bains de bouche par jour"
+  },
+  {
+    "nom": "HELICIDINE",
+    "substance": "Hélicidine",
+    "indication": "Toux sèche",
+    "voie": "Orale (Sirop)",
+    "contre_indication": "Nourrisson de moins de 2 ans",
+    "limitation": "Ne pas utiliser en cas de toux grasse",
+    "dose_maximale": "4 cuillères par jour"
+  },
+  {
+    "nom": "INEXIUM",
+    "substance": "Esoméprazole",
+    "indication": "Reflux gastro-œsophagien (RGO)",
+    "voie": "Orale",
+    "contre_indication": "Association avec le nelfinavir",
+    "limitation": "Prendre avant un repas",
+    "dose_maximale": "40 mg par jour"
+  },
+  {
+    "nom": "ADVILE",
+    "substance": "Ibuprofène",
+    "indication": "Douleur et inflammation",
+    "voie": "Orale",
+    "contre_indication": "Ulcère, insuffisance rénale, grossesse (T3)",
+    "limitation": "Prendre au cours d'un repas",
+    "dose_maximale": "1200 mg par jour"
+  },
+  {
+    "nom": "LERCANIDIPINE",
+    "substance": "Lercanidipine",
+    "indication": "Hypertension artérielle",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance cardiaque non traitée",
+    "limitation": "Éviter le pamplemousse",
+    "dose_maximale": "20 mg par jour"
+  },
+  {
+    "nom": "TARENG",
+    "substance": "Valsartan",
+    "indication": "Hypertension et insuffisance cardiaque",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance hépatique sévère",
+    "limitation": "Surveiller le taux de potassium",
+    "dose_maximale": "320 mg par jour"
+  },
+  {
+    "nom": "CRESTOR",
+    "substance": "Rosuvastatine",
+    "indication": "Excès de cholestérol",
+    "voie": "Orale",
+    "contre_indication": "Maladie hépatique évolutive",
+    "limitation": "Risque de douleurs musculaires",
+    "dose_maximale": "40 mg par jour"
+  },
+  {
+    "nom": "GAVISCON",
+    "substance": "Alginate de sodium / Bicarbonate",
+    "indication": "Brûlures d'estomac",
+    "voie": "Orale",
+    "contre_indication": "Hypersensibilité aux composants",
+    "limitation": "Prendre après les repas",
+    "dose_maximale": "4 sachets par jour"
+  },
+  {
+    "nom": "SERETIDE",
+    "substance": "Salmétérol / Fluticasone",
+    "indication": "Asthme chronique",
+    "voie": "Inhalation",
+    "contre_indication": "Hypersensibilité aux substances actives",
+    "limitation": "Se rincer la bouche après usage",
+    "dose_maximale": "2 inhalations par jour"
+  },
+  {
+    "nom": "ZOPICLONE",
+    "substance": "Zopiclone",
+    "indication": "Insomnie passagère",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance respiratoire sévère, apnée du sommeil",
+    "limitation": "Risque de dépendance, durée brève",
+    "dose_maximale": "7.5 mg par jour"
+  },
+  {
+    "nom": "STREPSILS",
+    "substance": "Alcool dichlorobenzylique / Amylmétacrésol",
+    "indication": "Maux de gorge peu intenses",
+    "voie": "Orale (Pastille à sucer)",
+    "contre_indication": "Hypersensibilité aux composants",
+    "limitation": "Ne pas dépasser 3 à 4 jours",
+    "dose_maximale": "8 pastilles par jour"
+  },
+  {
+    "nom": "CLOPIDOGREL",
+    "substance": "Clopidogrel",
+    "indication": "Prévention d'accidents thromboemboliques",
+    "voie": "Orale",
+    "contre_indication": "Hémorragie active (ulcère)",
+    "limitation": "Risque hémorragique lors d'une chirurgie",
+    "dose_maximale": "75 mg par jour"
+  },
+  {
+    "nom": "AERIUS",
+    "substance": "Desloratadine",
+    "indication": "Allergies (rhinite, urticaire)",
+    "voie": "Orale",
+    "contre_indication": "Hypersensibilité à la desloratadine",
+    "limitation": "Prudence en cas d'insuffisance rénale sévère",
+    "dose_maximale": "5 mg par jour"
+  },
+  {
+    "nom": "TRAMADOL",
+    "substance": "Tramadol",
+    "indication": "Douleurs modérées à intenses",
+    "voie": "Orale",
+    "contre_indication": "Épilepsie non contrôlée, intoxication alcoolique",
+    "limitation": "Risque de dépendance et de somnolence",
+    "dose_maximale": "400 mg par jour"
+  },
+  {
+    "nom": "ATARAX",
+    "substance": "Hydroxyzine",
+    "indication": "Anxiété mineure, urticaire",
+    "voie": "Orale",
+    "contre_indication": "Glaucome, troubles urétro-prostatiques",
+    "limitation": "Effet sédatif important",
+    "dose_maximale": "100 mg par jour (adulte)"
+  },
+  {
+    "nom": "MIRENA",
+    "substance": "Lévonorgestrel",
+    "indication": "Contraception (Stérilet)",
+    "voie": "Intra-utérine",
+    "contre_indication": "Infection génitale en cours, grossesse",
+    "limitation": "Durée d'action de 5 à 8 ans",
+    "dose_maximale": "Dispositif unique"
+  },
+  {
+    "nom": "LASILIX",
+    "substance": "Furosémide",
+    "indication": "Oedèmes, Hypertension",
+    "voie": "Orale, Injectable",
+    "contre_indication": "Insuffisance rénale anurique, déshydratation",
+    "limitation": "Risque d'hypokaliémie (baisse de potassium)",
+    "dose_maximale": "Variable selon l'indication"
+  },
+  {
+    "nom": "HUMEX Rhume",
+    "substance": "Paracétamol / Pseudoéphédrine",
+    "indication": "Rhume avec nez bouché",
+    "voie": "Orale",
+    "contre_indication": "Hypertension sévère, antécédent d'AVC",
+    "limitation": "Pas plus de 5 jours",
+    "dose_maximale": "3 comprimés jour / 1 gélule nuit"
+  },
+  {
+    "nom": "EUPHAYTOSE",
+    "substance": "Extraits de plantes (Valériane, Passiflore...)",
+    "indication": "Stress mineur, troubles du sommeil",
+    "voie": "Orale",
+    "contre_indication": "Hypersensibilité aux composants",
+    "limitation": "Médicament de phytothérapie",
+    "dose_maximale": "3 à 6 comprimés par jour"
+  },
+  {
+    "nom": "PYOSTACINE",
+    "substance": "Pristinamycine",
+    "indication": "Infections cutanées ou respiratoires",
+    "voie": "Orale",
+    "contre_indication": "Allergie aux synergistines",
+    "limitation": "À prendre pendant les repas",
+    "dose_maximale": "3g par jour"
+  },
+  {
+    "nom": "DICLOFENAC",
+    "substance": "Diclofénac",
+    "indication": "Inflammation rhumatismale",
+    "voie": "Orale",
+    "contre_indication": "Antécédents d'asthme lié aux AINS",
+    "limitation": "Risque cardiovasculaire à long terme",
+    "dose_maximale": "150 mg par jour"
+  },
+  {
+    "nom": "MODOPAR",
+    "substance": "Lévodopa / Bensérazide",
+    "indication": "Maladie de Parkinson",
+    "voie": "Orale",
+    "contre_indication": "Troubles cardiaques sévères, psychoses",
+    "limitation": "Prendre à distance des repas riches en protéines",
+    "dose_maximale": "Dose progressive"
+  },
+  {
+    "nom": "DEXTROPROPXYPHENE (Retiré)",
+    "substance": "Dextropropoxyphène",
+    "indication": "Douleur (Note: Retiré du marché)",
+    "voie": "Orale",
+    "contre_indication": "N/A",
+    "limitation": "Plus commercialisé en France",
+    "dose_maximale": "0 mg"
+  },
+  {
+    "nom": "BISOPROLOL",
+    "substance": "Hémifumarate de bisoprolol",
+    "indication": "Hypertension, insuffisance cardiaque",
+    "voie": "Orale",
+    "contre_indication": "Asthme sévère, bradycardie",
+    "limitation": "Ne pas arrêter brutalement",
+    "dose_maximale": "10 mg par jour"
+  },
+  {
+    "nom": "TUSSIDANE",
+    "substance": "Dextrométhorphane",
+    "indication": "Toux sèche d'irritation",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance respiratoire, asthme",
+    "limitation": "Risque d'abus/dépendance",
+    "dose_maximale": "120 mg par jour (adulte)"
+  },
+  {
+    "nom": "MOPRAL",
+    "substance": "Oméprazole",
+    "indication": "Ulcère, RGO",
+    "voie": "Orale",
+    "contre_indication": "Allergie aux benzimidazoles",
+    "limitation": "Éviter l'usage prolongé sans surveillance",
+    "dose_maximale": "20 à 40 mg par jour"
+  },
+  {
+    "nom": "CELEBREX",
+    "substance": "Célécoxib",
+    "indication": "Arthrose, polyarthrite",
+    "voie": "Orale",
+    "contre_indication": "Maladie cardiaque ischémique, AVC",
+    "limitation": "Surveiller la tension artérielle",
+    "dose_maximale": "400 mg par jour"
+  },
+  {
+    "nom": "FLIXOTIDE",
+    "substance": "Fluticasone",
+    "indication": "Traitement de fond de l'asthme",
+    "voie": "Inhalation",
+    "contre_indication": "Tuberculose pulmonaire non traitée",
+    "limitation": "Ne traite pas la crise d'asthme aiguë",
+    "dose_maximale": "1000 µg par jour (adulte)"
+  },
+  {
+    "nom": "DEROXAT",
+    "substance": "Paroxétine",
+    "indication": "Dépression, anxiété généralisée",
+    "voie": "Orale",
+    "contre_indication": "Association avec les IMAO",
+    "limitation": "Délai d'action de 2 à 4 semaines",
+    "dose_maximale": "50 mg par jour"
+  },
+  {
+    "nom": "SPIRONOLACTONE",
+    "substance": "Spironolactone",
+    "indication": "Oedèmes, Hypertension",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance rénale sévère, hyperkaliémie",
+    "limitation": "Éviter les suppléments de potassium",
+    "dose_maximale": "100 mg par jour"
+  },
+  {
+    "nom": "LIXIANA",
+    "substance": "Edoxaban",
+    "indication": "Prévention AVC (anticoagulant)",
+    "voie": "Orale",
+    "contre_indication": "Hémorragie active, maladie hépatique",
+    "limitation": "Surveillance des signes de saignements",
+    "dose_maximale": "60 mg par jour"
+  },
+  {
+    "nom": "XANAX",
+    "substance": "Alprazolam",
+    "indication": "Anxiété sévère",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance respiratoire, myasthénie",
+    "limitation": "Risque de dépendance, max 12 semaines",
+    "dose_maximale": "4 mg par jour"
+  },
+  {
+    "nom": "VIAGRA",
+    "substance": "Sildénafil",
+    "indication": "Dysfonction érectile",
+    "voie": "Orale",
+    "contre_indication": "Prise de dérivés nitrés (risques cardiaques)",
+    "limitation": "Uniquement sur prescription médicale",
+    "dose_maximale": "100 mg par jour"
+  },
+  {
+    "nom": "ELIGARD",
+    "substance": "Leuproréline",
+    "indication": "Cancer de la prostate",
+    "voie": "Sous-cutanée",
+    "contre_indication": "Hypersensibilité aux agonistes de la GnRH",
+    "limitation": "Injection tous les 1, 3 ou 6 mois",
+    "dose_maximale": "Dose par injection programmée"
+  },
+  {
+    "nom": "EUTHYROX",
+    "substance": "Lévothyroxine",
+    "indication": "Hypothyroïdie",
+    "voie": "Orale",
+    "contre_indication": "Insuffisance surrénale non traitée",
+    "limitation": "Alternative au Levothyrox",
+    "dose_maximale": "Individualisée"
+  },
+  {
+    "nom": "POLYSILANE",
+    "substance": "Diméticone",
+    "indication": "Ballonnements, flatulences",
+    "voie": "Orale",
+    "contre_indication": "Hypersensibilité aux composants",
+    "limitation": "À prendre avant les repas",
+    "dose_maximale": "3 sachets par jour"
+  },
+  {
+    "nom": "MERCILON",
+    "substance": "Désogestrel / Ethinylestradiol",
+    "indication": "Contraception orale",
+    "voie": "Orale",
+    "contre_indication": "Antécédent de thrombose veineuse",
+    "limitation": "Prendre à heure fixe",
+    "dose_maximale": "1 comprimé par jour"
+  }
+]
