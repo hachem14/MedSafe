@@ -900,6 +900,7 @@ class DashboardMedecin(ctk.CTk):
             except Exception as e:
                 print(f"Erreur SQL : {e}")
 
+
     def _message_selection_requise(self):
         outer, card = creer_carte(self.zone_contenu)
         outer.pack(padx=30, pady=80, fill="x")
@@ -912,9 +913,7 @@ class DashboardMedecin(ctk.CTk):
         self.destroy()
 
 
-# =========================================================
-# POINT D'ENTRÉE
-# =========================================================
+
 if __name__ == "__main__":
     login_app = LoginWindow()
     login_app.mainloop()
